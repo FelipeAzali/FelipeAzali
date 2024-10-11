@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @FelipeAzali
-- 👀 I’m interested in ...
+- 👀 I’m interested in Caique França
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Tudo
+- 📫 How to reach me: Manda Zap BB
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Eu odeio cólica e corinthians
 
 <!---
 FelipeAzali/FelipeAzali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
